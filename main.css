@@ -30,9 +30,9 @@ body {
 .content{
 	width : 73%;
 	background: red;
+	display: inline-block;
 	height: 600px;
 	padding: 10px;
-	display : inline-block;
 }
 .footer{
 	margin-top: 10px;
