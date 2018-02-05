@@ -23,7 +23,7 @@ body {
 	margin-right: 10px;
 }
 .sidebar img{
-	width: 350px;
+	width: 300px;
 	height: 500px;
 	margin : 20px;
 }
@@ -32,6 +32,7 @@ body {
 	background: red;
 	height: 600px;
 	padding: 10px;
+	display : inline-block;
 }
 .footer{
 	margin-top: 10px;
